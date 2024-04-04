@@ -1,4 +1,4 @@
-# JavaScript Array
+# JavaScript Array [<i>click here to view code</i>](https://github.com/rohitkrbhardwaj09/JavaScript_Doc/blob/main/JS_Objects/JS_Array/array.js)
 
 ## What is Array in JavaScript?
 <p>In JavaScript, an array is a data structure used to store multiple values in a single variable. Arrays can hold elements of any data type, and the elements are accessed by their index, starting from 0.</p>
