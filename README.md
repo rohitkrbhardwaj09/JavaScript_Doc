@@ -4,7 +4,7 @@
 ## JavaScript Control Flow Statements
 ## JavaScript Loops
 ## JavaScript Expression and Operators
-## [JavaScript Objects](https://github.com/rohitkrbhardwaj09/JavaScript_Doc/tree/main/JS_Objects)
+## [<span style="color: #D3D3D3">JavaScript Objects</span>](https://github.com/rohitkrbhardwaj09/JavaScript_Doc/tree/main/JS_Objects)
 - JS Array
 - [JS String](https://github.com/rohitkrbhardwaj09/JavaScript_Doc/blob/main/JS_Objects/JS_String/String.md)
 - JS Date
