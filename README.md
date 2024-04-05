@@ -22,21 +22,21 @@
 - JS Reflect
 - JS WeakMap
 - JS WeakSet
-## JavaScript Functions
-- JS Functions
-- JS Function Definitions
-- JS Function Call
-- JS Function Expression
-- JS Pure Functions
-- JS Function Parameters
-- JS Function Invocation
-- JS Anonymous Functions
-- JS Arrow functions
-- JS Nested functions
-- JS Function Generator
-- JS Function binding
-- JS Async/Await Function
-- Hoisting in JavaScript
+## [JavaScript Functions](https://github.com/rohitkrbhardwaj09/JavaScript_Doc/tree/main/JS_Functions)
+- [JS Functions](https://github.com/rohitkrbhardwaj09/JavaScript_Doc/tree/main/JS_Functions)
+- [JS Function Definitions](https://github.com/rohitkrbhardwaj09/JavaScript_Doc/tree/main/JS_Functions)
+- [JS Function Call](https://github.com/rohitkrbhardwaj09/JavaScript_Doc/tree/main/JS_Functions)
+- [JS Function Expression](https://github.com/rohitkrbhardwaj09/JavaScript_Doc/tree/main/JS_Functions)
+- [JS Pure Functions](https://github.com/rohitkrbhardwaj09/JavaScript_Doc/tree/main/JS_Functions)
+- [JS Function Parameters](https://github.com/rohitkrbhardwaj09/JavaScript_Doc/tree/main/JS_Functions)
+- [JS Function Invocation](https://github.com/rohitkrbhardwaj09/JavaScript_Doc/tree/main/JS_Functions)
+- [JS Anonymous Functions](https://github.com/rohitkrbhardwaj09/JavaScript_Doc/tree/main/JS_Functions)
+- [JS Arrow functions](https://github.com/rohitkrbhardwaj09/JavaScript_Doc/tree/main/JS_Functions)
+- [JS Nested functions](https://github.com/rohitkrbhardwaj09/JavaScript_Doc/tree/main/JS_Functions)
+- [JS Function Generator](https://github.com/rohitkrbhardwaj09/JavaScript_Doc/tree/main/JS_Functions)
+- [JS Function binding](https://github.com/rohitkrbhardwaj09/JavaScript_Doc/tree/main/JS_Functions)
+- [JS Async/Await Function](https://github.com/rohitkrbhardwaj09/JavaScript_Doc/tree/main/JS_Functions)
+- [Hoisting in JavaScript](https://github.com/rohitkrbhardwaj09/JavaScript_Doc/tree/main/JS_Functions)
 ## JavaScript Regular Expression
 ## JavaScript Events
 ## JavaScript OOPs
