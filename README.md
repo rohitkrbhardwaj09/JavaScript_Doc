@@ -7,7 +7,7 @@
 ## [<span style="color: #D3D3D3">JavaScript Objects</span>](https://github.com/rohitkrbhardwaj09/JavaScript_Doc/tree/main/JS_Objects)
 - [JS Array](https://github.com/rohitkrbhardwaj09/JavaScript_Doc/blob/main/JS_Objects/JS_Array/Array.md)
 - [JS String](https://github.com/rohitkrbhardwaj09/JavaScript_Doc/blob/main/JS_Objects/JS_String/String.md)
-- JS Date
+- [JS Date](https://github.com/rohitkrbhardwaj09/JavaScript_Doc/blob/main/JS_Objects/JS_Date/dateInJS.md)
 - JS Number
 - JS Math
 - JS Object
@@ -23,6 +23,20 @@
 - JS WeakMap
 - JS WeakSet
 ## JavaScript Functions
+- JS Functions
+- JS Function Definitions
+- JS Function Call
+- JS Function Expression
+- JS Pure Functions
+- JS Function Parameters
+- JS Function Invocation
+- JS Anonymous Functions
+- JS Arrow functions
+- JS Nested functions
+- JS Function Generator
+- JS Function binding
+- JS Async/Await Function
+- Hoisting in JavaScript
 ## JavaScript Regular Expression
 ## JavaScript Events
 ## JavaScript OOPs

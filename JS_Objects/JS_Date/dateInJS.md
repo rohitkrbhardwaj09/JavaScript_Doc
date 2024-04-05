@@ -1,4 +1,4 @@
-# JavaScript Date()
+# [JavaScript Date()](https://github.com/rohitkrbhardwaj09/JavaScript_Doc/blob/main/JS_Objects/JS_Date/dateInJS.js)
 
 <p>
 In JavaScript, the <b>Date</b> object is used to work with dates and times. It provides methods for <b>creating</b>, <b>manipulating</b>, and <b>formatting</b> dates and times. Here's a comprehensive explanation of the Date object:
